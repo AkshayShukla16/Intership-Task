@@ -1,0 +1,23 @@
+
+
+/* 
+style={{backgroundColor:'cyan', position: 'relative', left:'40%', right:'40%'}}
+*/
+
+.additional-info{
+    height: 12vh;
+    width: 97vw;
+    border: 3px outset rgb(161, 156, 156);
+    border-radius: 1.5rem;
+    position: relative;
+    left:0%;
+    right:0%;
+    
+}
+
+.additional-info span{
+    font-size: 1.1rem;
+    padding:1rem;
+    font-weight: bold;
+    margin: 0.5rem;
+}
